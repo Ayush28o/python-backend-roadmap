@@ -1,0 +1,9 @@
+The quick brown fox jumps over the lazy dog. The dog barks at the fox, but the fox runs away quickly.
+
+The forest is quiet and the trees sway gently in the wind. A bird sings a song while the fox watches the dog from a distance. The dog does not see the fox.
+
+Programming is fun. Python programming is especially fun when you write programs that solve real problems. Word frequency programs are a great way to practice programming skills.
+
+The cat sat on the mat. The cat looked at the dog. The dog looked back at the cat. Neither the cat nor the dog moved for a long time.
+
+Data analysis often starts with simple word counts. Word counts help us understand text. Understanding text is the first step toward understanding language.
